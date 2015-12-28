@@ -1,0 +1,172 @@
+2015-11-24 18:59:35 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 18:59:37 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 18:59:38 INFO  MergedTests:17 - Log step 1: Open search image
+2015-11-24 18:59:39 INFO  GoogleSearchPage:28 - Click 'searchImageAction'
+2015-11-24 18:59:39 INFO  MergedTests:21 - Log step 2: Perform search image by URL
+2015-11-24 18:59:39 INFO  GoogleSearchImagePage:18 - Click 'searchImage'
+2015-11-24 18:59:39 INFO  GoogleSearchImagePage:20 - Clear 'searchImageByURL'
+2015-11-24 18:59:39 INFO  GoogleSearchImagePage:22 - Send keys to 'searchImageByURL': http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg
+2015-11-24 18:59:40 INFO  GoogleSearchImagePage:24 - Click 'searchSubmitButton'
+2015-11-24 18:59:40 INFO  MergedTests:25 - Log step 3: Assert results
+2015-11-24 18:59:41 INFO  MergedTests:27 - Driver shut down
+2015-11-24 18:59:44 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 18:59:46 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 18:59:47 INFO  MergedTests:31 - Log step 1: Perform search
+2015-11-24 18:59:47 INFO  GoogleSearchPage:19 - Clear 'searchField'
+2015-11-24 18:59:47 INFO  GoogleSearchPage:21 - Send keys to 'searchField': wJTL0eRRhd
+2015-11-24 18:59:47 INFO  GoogleSearchPage:23 - Click 'searchButton'
+2015-11-24 18:59:47 INFO  MergedTests:35 - Log step 2: Assert results
+2015-11-24 18:59:48 INFO  MergedTests:27 - Driver shut down
+2015-11-24 18:59:52 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 18:59:54 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 18:59:55 INFO  MergedTests:42 - Log step 1: Perform search
+2015-11-24 18:59:55 INFO  GoogleSearchPage:19 - Clear 'searchField'
+2015-11-24 18:59:57 INFO  GoogleSearchPage:21 - Send keys to 'searchField': Ten pilot whales were found stranded on a beach in the French region of Calais. Authorities managed to safely return three of the long-finned whales back to the sea. However, by the time rescue teams arrived, six of them had already died. Fire crews sprayed the animals with water as they tried to save them. The last whale died as rescuers attempted to return it to the water.
+Officials say the pod were likely from the same family and the beaching may have followed the death of a dominant male.
+"The first big fact we can confirm is that there is a large dominant male which is dead and a female, roughly of the same age, which is also dead. Personally, I believe these animals were migrating. I think that the male or female, or both, died out at sea and all of the group drifted ashore at the same time.”
+It's the first time in thirty years that this number of whales has beached in the French region.
+Autopsies will be carried out at the University of Liege to determine the cause of death.
+2015-11-24 18:59:57 INFO  GoogleSearchPage:23 - Click 'searchButton'
+2015-11-24 18:59:57 INFO  MergedTests:46 - Log step 2: Assert results
+2015-11-24 18:59:58 INFO  MergedTests:27 - Driver shut down
+2015-11-24 19:01:41 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 19:01:43 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 19:01:44 INFO  MergedTests:22 - ---- Start ----
+2015-11-24 19:01:44 INFO  MergedTests:17 - Log step 1: Open search image
+2015-11-24 19:01:45 INFO  GoogleSearchPage:28 - Click 'searchImageAction'
+2015-11-24 19:01:45 INFO  MergedTests:21 - Log step 2: Perform search image by URL
+2015-11-24 19:01:45 INFO  GoogleSearchImagePage:18 - Click 'searchImage'
+2015-11-24 19:01:45 INFO  GoogleSearchImagePage:20 - Clear 'searchImageByURL'
+2015-11-24 19:01:45 INFO  GoogleSearchImagePage:22 - Send keys to 'searchImageByURL': http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg
+2015-11-24 19:01:46 INFO  GoogleSearchImagePage:24 - Click 'searchSubmitButton'
+2015-11-24 19:01:46 INFO  MergedTests:25 - Log step 3: Assert results
+2015-11-24 19:01:47 INFO  MergedTests:28 - Driver shut down
+2015-11-24 19:01:51 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 19:01:52 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 19:01:53 INFO  MergedTests:22 - ---- Start ----
+2015-11-24 19:01:53 INFO  MergedTests:31 - Log step 1: Perform search
+2015-11-24 19:01:53 INFO  GoogleSearchPage:19 - Clear 'searchField'
+2015-11-24 19:01:53 INFO  GoogleSearchPage:21 - Send keys to 'searchField': C1b0gX55Rb
+2015-11-24 19:01:53 INFO  GoogleSearchPage:23 - Click 'searchButton'
+2015-11-24 19:01:53 INFO  MergedTests:35 - Log step 2: Assert results
+2015-11-24 19:01:54 INFO  MergedTests:28 - Driver shut down
+2015-11-24 19:01:57 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 19:02:00 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 19:02:01 INFO  MergedTests:22 - ---- Start ----
+2015-11-24 19:02:01 INFO  MergedTests:42 - Log step 1: Perform search
+2015-11-24 19:02:01 INFO  GoogleSearchPage:19 - Clear 'searchField'
+2015-11-24 19:02:03 INFO  GoogleSearchPage:21 - Send keys to 'searchField': Ten pilot whales were found stranded on a beach in the French region of Calais. Authorities managed to safely return three of the long-finned whales back to the sea. However, by the time rescue teams arrived, six of them had already died. Fire crews sprayed the animals with water as they tried to save them. The last whale died as rescuers attempted to return it to the water.
+Officials say the pod were likely from the same family and the beaching may have followed the death of a dominant male.
+"The first big fact we can confirm is that there is a large dominant male which is dead and a female, roughly of the same age, which is also dead. Personally, I believe these animals were migrating. I think that the male or female, or both, died out at sea and all of the group drifted ashore at the same time.”
+It's the first time in thirty years that this number of whales has beached in the French region.
+Autopsies will be carried out at the University of Liege to determine the cause of death.
+2015-11-24 19:02:03 INFO  GoogleSearchPage:23 - Click 'searchButton'
+2015-11-24 19:02:03 INFO  MergedTests:46 - Log step 2: Assert results
+2015-11-24 19:02:04 INFO  MergedTests:28 - Driver shut down
+2015-11-24 19:17:05 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 19:17:06 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 19:17:06 INFO  MergedTests:22 - ------ Start ------
+2015-11-24 19:17:06 INFO  MergedTests:17 - Log step 1: Open search image
+2015-11-24 19:17:08 INFO  GoogleSearchPage:28 - Click 'searchImageAction'
+2015-11-24 19:17:08 INFO  MergedTests:21 - Log step 2: Perform search image by URL
+2015-11-24 19:17:09 INFO  MergedTests:28 - Driver shut down
+2015-11-24 19:17:13 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 19:17:15 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 19:17:15 INFO  MergedTests:22 - ------ Start ------
+2015-11-24 19:17:15 INFO  MergedTests:31 - Log step 1: Perform search
+2015-11-24 19:17:16 INFO  GoogleSearchPage:19 - Clear 'searchField'
+2015-11-24 19:17:16 INFO  GoogleSearchPage:21 - Send keys to 'searchField': Z4bL6WtmGm
+2015-11-24 19:17:16 INFO  GoogleSearchPage:23 - Click 'searchButton'
+2015-11-24 19:17:16 INFO  MergedTests:35 - Log step 2: Assert results
+2015-11-24 19:17:16 INFO  MergedTests:28 - Driver shut down
+2015-11-24 19:17:20 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-24 19:17:23 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-24 19:17:24 INFO  MergedTests:22 - ------ Start ------
+2015-11-24 19:17:24 INFO  MergedTests:42 - Log step 1: Perform search
+2015-11-24 19:17:24 INFO  GoogleSearchPage:19 - Clear 'searchField'
+2015-11-24 19:17:26 INFO  GoogleSearchPage:21 - Send keys to 'searchField': Ten pilot whales were found stranded on a beach in the French region of Calais. Authorities managed to safely return three of the long-finned whales back to the sea. However, by the time rescue teams arrived, six of them had already died. Fire crews sprayed the animals with water as they tried to save them. The last whale died as rescuers attempted to return it to the water.
+Officials say the pod were likely from the same family and the beaching may have followed the death of a dominant male.
+"The first big fact we can confirm is that there is a large dominant male which is dead and a female, roughly of the same age, which is also dead. Personally, I believe these animals were migrating. I think that the male or female, or both, died out at sea and all of the group drifted ashore at the same time.”
+It's the first time in thirty years that this number of whales has beached in the French region.
+Autopsies will be carried out at the University of Liege to determine the cause of death.
+2015-11-24 19:17:26 INFO  GoogleSearchPage:23 - Click 'searchButton'
+2015-11-24 19:17:26 INFO  MergedTests:46 - Log step 2: Assert results
+2015-11-24 19:17:27 INFO  MergedTests:28 - Driver shut down
+2015-11-30 18:06:55 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-30 18:06:56 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-30 18:06:57 INFO  MergedTests:22 - ------ Start ------
+2015-11-30 18:06:57 INFO  MergedTests:44 - Log step 1: Open search image
+2015-11-30 18:07:14 INFO  MergedTests:28 - Driver shut down
+2015-11-30 18:07:19 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-30 18:07:21 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-30 18:07:21 INFO  MergedTests:22 - ------ Start ------
+2015-11-30 18:07:21 INFO  MergedTests:62 - Log step 1: Perform search
+2015-11-30 18:07:22 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-11-30 18:07:22 INFO  GoogleSearchPage:27 - Send keys to 'searchField': gjyGOIwPGU
+2015-11-30 18:07:22 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-11-30 18:07:22 INFO  MergedTests:66 - Log step 2: Assert results
+2015-11-30 18:07:24 INFO  MergedTests:28 - Driver shut down
+2015-11-30 18:07:29 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-30 18:07:33 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-30 18:07:33 INFO  MergedTests:22 - ------ Start ------
+2015-11-30 18:07:33 INFO  MergedTests:73 - Log step 1: Perform search
+2015-11-30 18:07:34 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-11-30 18:07:36 INFO  GoogleSearchPage:27 - Send keys to 'searchField': Ten pilot whales were found stranded on a beach in the French region of Calais. Authorities managed to safely return three of the long-finned whales back to the sea. However, by the time rescue teams arrived, six of them had already died. Fire crews sprayed the animals with water as they tried to save them. The last whale died as rescuers attempted to return it to the water.
+Officials say the pod were likely from the same family and the beaching may have followed the death of a dominant male.
+"The first big fact we can confirm is that there is a large dominant male which is dead and a female, roughly of the same age, which is also dead. Personally, I believe these animals were migrating. I think that the male or female, or both, died out at sea and all of the group drifted ashore at the same time.”
+It's the first time in thirty years that this number of whales has beached in the French region.
+Autopsies will be carried out at the University of Liege to determine the cause of death.
+2015-11-30 18:07:36 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-11-30 18:07:36 INFO  MergedTests:77 - Log step 2: Assert results
+2015-11-30 18:07:37 INFO  MergedTests:28 - Driver shut down
+2015-11-30 18:08:22 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-30 18:08:23 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-30 18:08:24 INFO  MergedTests:22 - ------ Start ------
+2015-11-30 18:08:24 INFO  MergedTests:44 - Log step 1: Open search image
+2015-11-30 18:08:38 INFO  GoogleSearchPage:34 - Click 'searchImageAction'
+2015-11-30 18:08:38 INFO  MergedTests:48 - Log step 2: Perform search image by URL
+2015-11-30 18:08:38 INFO  GoogleSearchImagePage:19 - Click 'searchImage'
+2015-11-30 18:08:38 INFO  GoogleSearchImagePage:21 - Clear 'searchImageByURL'
+2015-11-30 18:08:39 INFO  GoogleSearchImagePage:23 - Send keys to 'searchImageByURL': http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg
+2015-11-30 18:08:40 INFO  GoogleSearchImagePage:25 - Click 'searchSubmitButton'
+2015-11-30 18:08:41 INFO  MergedTests:28 - Driver shut down
+2015-11-30 18:11:55 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-30 18:11:58 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-30 18:11:59 INFO  MergedTests:22 - ------ Start ------
+2015-11-30 18:11:59 INFO  MergedTests:44 - Log step 1: Open search image
+2015-11-30 18:12:00 INFO  GoogleSearchPage:34 - Click 'searchImageAction'
+2015-11-30 18:12:00 INFO  MergedTests:48 - Log step 2: Perform search image by URL
+2015-11-30 18:12:00 INFO  GoogleSearchImagePage:19 - Click 'searchImage'
+2015-11-30 18:12:01 INFO  GoogleSearchImagePage:21 - Clear 'searchImageByURL'
+2015-11-30 18:12:01 INFO  GoogleSearchImagePage:23 - Send keys to 'searchImageByURL': http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg
+2015-11-30 18:12:02 INFO  GoogleSearchImagePage:25 - Click 'searchSubmitButton'
+2015-11-30 18:12:02 INFO  MergedTests:56 - Log step 3: Assert results
+2015-11-30 18:12:04 INFO  MergedTests:28 - Driver shut down
+2015-11-30 18:12:17 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-11-30 18:12:20 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-11-30 18:12:21 INFO  MergedTests:22 - ------ Start ------
+2015-11-30 18:12:21 INFO  MergedTests:44 - Log step 1: Open search image
+2015-11-30 18:12:22 INFO  GoogleSearchPage:34 - Click 'searchImageAction'
+2015-11-30 18:12:22 INFO  MergedTests:48 - Log step 2: Perform search image by URL
+2015-11-30 18:12:52 INFO  MergedTests:28 - Driver shut down
+2015-12-03 17:01:53 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-03 17:01:55 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-12-03 17:01:55 INFO  MergedTests:22 - ------ Start ------
+2015-12-03 17:01:55 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-03 17:01:56 INFO  GoogleSearchPage:34 - Click 'searchImageAction'
+2015-12-03 17:01:56 INFO  MergedTests:21 - Log step 2: Perform search image by URL
+2015-12-03 17:01:57 INFO  GoogleSearchImagePage:19 - Click 'searchImage'
+2015-12-03 17:01:57 INFO  GoogleSearchImagePage:21 - Clear 'searchImageByURL'
+2015-12-03 17:01:57 INFO  GoogleSearchImagePage:23 - Send keys to 'searchImageByURL': http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg
+2015-12-03 17:01:59 INFO  GoogleSearchImagePage:25 - Click 'searchSubmitButton'
+2015-12-03 17:01:59 INFO  MergedTests:25 - Log step 3: Assert results
+2015-12-03 17:02:02 INFO  MergedTests:28 - Driver shut down
+2015-12-28 14:06:52 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-28 14:06:52 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-12-28 14:06:53 INFO  MergedTests:22 - ------ Start ------
+2015-12-28 14:06:53 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 14:06:56 INFO  MergedTests:28 - Driver shut down
+2015-12-28 14:06:56 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-28 14:06:56 INFO  MergedTests:28 - Driver shut down
+2015-12-28 14:06:56 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-28 14:06:56 INFO  MergedTests:28 - Driver shut down

@@ -1,0 +1,94 @@
+2015-12-28 14:41:22 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-28 14:41:22 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-12-28 14:41:22 INFO  MergedTests:22 - ------ Start ------
+2015-12-28 14:41:22 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 14:41:32 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 14:41:32 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 14:41:33 INFO  MergedTests:28 - Driver shut down
+2015-12-28 14:48:33 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-28 14:48:33 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-12-28 14:48:33 INFO  MergedTests:22 - ------ Start ------
+2015-12-28 14:48:33 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 14:48:35 INFO  MergedTests:28 - Driver shut down
+2015-12-28 15:09:17 INFO  MergedTests:18 - FirefoxDriver initialized
+2015-12-28 15:09:17 INFO  MergedTests:20 - Set timeout fro 3 seconds
+2015-12-28 15:09:17 INFO  MergedTests:22 - ------ Start ------
+2015-12-28 15:09:17 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 15:09:19 INFO  MergedTests:28 - Driver shut down
+2015-12-28 17:14:11 INFO  MergedTests:19 - FirefoxDriver initialized
+2015-12-28 17:18:44 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:18:46 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:18:46 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:18:56 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:18:57 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-12-28 17:18:57 INFO  GoogleSearchPage:27 - Send keys to 'searchField': TcMtqP4ogx
+2015-12-28 17:18:58 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-12-28 17:18:58 INFO  MergedTests:39 - Log step 2: Assert results
+2015-12-28 17:18:58 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 17:19:00 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:20:27 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:20:27 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:20:27 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:20:28 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:20:28 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 17:20:29 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:21:38 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:21:40 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:21:40 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:21:51 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:21:51 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-12-28 17:21:51 INFO  GoogleSearchPage:27 - Send keys to 'searchField': IqYexN1PN2
+2015-12-28 17:21:52 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-12-28 17:21:52 INFO  MergedTests:39 - Log step 2: Assert results
+2015-12-28 17:21:53 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 17:21:54 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:25:49 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:25:50 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:25:50 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:26:00 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:26:00 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-12-28 17:26:00 INFO  GoogleSearchPage:27 - Send keys to 'searchField': N0QoZ3eTte
+2015-12-28 17:26:00 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-12-28 17:26:00 INFO  MergedTests:39 - Log step 2: Assert results
+2015-12-28 17:26:01 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 17:26:01 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:26:13 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:26:13 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:26:13 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:26:23 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:26:23 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 17:26:24 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:28:11 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:28:11 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:28:11 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:28:22 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:28:22 INFO  MergedTests:46 - Log step 1: Perform search
+2015-12-28 17:28:23 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:31:16 INFO  MergedTests:21 - Set timeout fro 3 seconds
+2015-12-28 17:31:17 INFO  MergedTests:23 - ------ Start ------
+2015-12-28 17:31:17 INFO  MergedTests:35 - Log step 1: Perform search
+2015-12-28 17:31:17 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-12-28 17:31:17 INFO  GoogleSearchPage:27 - Send keys to 'searchField': 3c0Su1oPJc
+2015-12-28 17:31:17 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-12-28 17:31:17 INFO  MergedTests:39 - Log step 2: Assert results
+2015-12-28 17:31:18 INFO  MergedTests:29 - Driver shut down
+2015-12-28 17:54:17 INFO  MergedTests:24 - Set timeout fro 3 seconds
+2015-12-28 17:54:17 INFO  MergedTests:26 - ------ Start ------
+2015-12-28 17:54:17 INFO  MergedTests:17 - Log step 1: Open search image
+2015-12-28 17:54:28 INFO  MergedTests:37 - Log step 1: Perform search
+2015-12-28 17:54:28 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-12-28 17:54:28 INFO  GoogleSearchPage:27 - Send keys to 'searchField': nkkzi7XyyE
+2015-12-28 17:54:28 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-12-28 17:54:29 INFO  MergedTests:42 - Log step 2: Assert results
+2015-12-28 17:54:29 INFO  MergedTests:50 - Log step 1: Perform search
+2015-12-28 17:54:30 INFO  MergedTests:37 - Driver shut down
+2015-12-28 18:00:48 INFO  MergedTests:24 - Set timeout fro 3 seconds
+2015-12-28 18:00:49 INFO  MergedTests:26 - ------ Start ------
+2015-12-28 18:00:49 INFO  MergedTests:21 - Log step 1: Open search image
+2015-12-28 18:00:59 INFO  MergedTests:40 - Log step 1: Perform search
+2015-12-28 18:00:59 INFO  GoogleSearchPage:25 - Clear 'searchField'
+2015-12-28 18:00:59 INFO  GoogleSearchPage:27 - Send keys to 'searchField': hM6bwH3naB
+2015-12-28 18:00:59 INFO  GoogleSearchPage:29 - Click 'searchButton'
+2015-12-28 18:00:59 INFO  MergedTests:45 - Log step 2: Assert results
+2015-12-28 18:01:00 INFO  MergedTests:53 - Log step 1: Perform search
+2015-12-28 18:01:01 INFO  MergedTests:37 - Driver shut down
